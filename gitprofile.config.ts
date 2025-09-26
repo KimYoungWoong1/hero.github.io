@@ -58,7 +58,7 @@ const CONFIG = {
     mastodon: 'arifszn@mastodon.social',
     researchGate: '',
     facebook: '',
-    instagram: '',
+    instagram: '@hero_0825',
     reddit: '',
     threads: '',
     youtube: '', // example: 'pewdiepie'
@@ -72,7 +72,7 @@ const CONFIG = {
     telegram: '',
     website: 'https://www.arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'herojason02@gmail.com',
   },
   resume: {
     fileUrl:
@@ -120,10 +120,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
+      institution: 'SungKyunKwan University',
       degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      from: '2021',
+      to: '2027',
     },
     {
       institution: 'Institution Name',
