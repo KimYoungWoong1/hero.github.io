@@ -13,9 +13,9 @@
   name: 'procyon';
   color-scheme: light;
 
-  --color-base-100: #e3e3ed;
-  --color-base-200: #d1d1db;
-  --color-base-300: #bfbfc9;
+  --color-base-100: #e0f2fe; /* pastel blue (sky-100) */
+  --color-base-200: #bae6fd; /* sky-200 */
+  --color-base-300: #93c5fd; /* sky-300 */
   --color-base-content: #2a2730;
   --color-primary: #fc055b;
   --color-primary-content: #ffffff;
@@ -82,6 +82,7 @@ body {
     'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #e0f2fe; /* pastel blue */
 }
 
 code {
