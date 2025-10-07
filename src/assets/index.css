@@ -75,6 +75,7 @@
   border-radius: 10px;
 }
 
+html,
 body {
   margin: 0;
   font-family:
@@ -82,7 +83,7 @@ body {
     'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #e0f2fe; /* pastel blue */
+  background-color: #e0f2fe !important; /* pastel blue */
 }
 
 code {
